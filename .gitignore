@@ -1,0 +1,6 @@
+_pychache_/
+*.pyc
+.venv/
+.env
+.idea/
+.vscode/
